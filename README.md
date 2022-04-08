@@ -14,7 +14,7 @@ Requirements:
    - Pillow 8.2.0
    - pip 21.1.3
 
-Note: All other libraries and modules to run the system is already given in the provided GDrive link below.
+Note: All other libraries and modules to run the system is already given in the provided GDrive link below. Just download the zip file and follow the steps below.
 
 ----------------------------------------------------------
 
