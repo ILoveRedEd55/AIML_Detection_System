@@ -8,6 +8,16 @@ Adolacion, Jesmar Troy, Leagogo, Nezel, Millares, Francine Anne, Soldevilla, Fra
 
 ----------------------------------------------------------
 
+Requirements:
+   - Python3
+   - numpy 1.19.5
+   - Pillow 8.2.0
+   - pip 21.1.3
+
+Note: All other libraries and modules to run the system is already given in the provided GDrive link below.
+
+----------------------------------------------------------
+
 Steps To Run The System:
 
 First:
@@ -26,7 +36,6 @@ https://drive.google.com/drive/folders/1dU9MCKk2lUZJIwBx75T0iuXWUt1iMM-M?usp=sha
 
 
 After downloading the files in the GDrive, locate the 'lib' directory inside the directory and extract the files inside.
-
 
 Third:
 
