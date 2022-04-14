@@ -57,7 +57,7 @@ https://drive.google.com/drive/folders/1x7sNAP0xPVD5aRG97ceJndtT9SwJD_UH?usp=sha
 
 Before running the executable file, note that this system is a one directory system which means that it requires other dependencies to able to run its functions. So before running the system you have to download the required files to run the said system. Below is the GDrive link for the required files. Note that the zipped file size is 2.5GB and is around 6.5GB when extracted.
 
-Note: If you already downloaded the files in the GDrive link (as provided above), there's no need to redownload the said files below. Just skip this step and go to **Third** step.
+Note: If you already downloaded the files in the GDrive link (as provided above, **AIML Detection System Required Files**), there's no need to redownload the said files below. Just skip this step and go to **Third** step.
 
 **Link for the files:**
 
