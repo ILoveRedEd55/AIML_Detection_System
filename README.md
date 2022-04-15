@@ -13,7 +13,7 @@ Adolacion, Jesmar Troy, Leagogo, Nezel, Millares, Francine Anne, Soldevilla, Fra
    - numpy 1.19.5
    - Pillow 8.2.0
 
-To download these dependencies, install the 'requirements.txt' in the 'src' folder. To do this, navigate to the 'src' folder using your cmd terminal and type the following:
+To download these dependencies, install the '**requirements.txt**' in the '**src**' folder. To do this, navigate to the '**src**' folder using your **cmd terminal** and type the following:
 ```
 pip install -r requirements.txt
 ```
