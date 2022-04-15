@@ -39,7 +39,7 @@ Before running the system, you need to download the required files to run the sy
 https://drive.google.com/drive/folders/1dU9MCKk2lUZJIwBx75T0iuXWUt1iMM-M?usp=sharing
 
 
-After downloading the files in the GDrive, locate the 'lib' directory inside the directory and extract the files inside.
+After downloading the files in the GDrive, locate the '**lib**' directory inside the directory and extract the files inside.
 
 **Third:**
 
